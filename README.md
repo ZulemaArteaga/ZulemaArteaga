@@ -1,9 +1,17 @@
-👋🏻 Hi! 
+Hi there 👋🏻 
+I'm Zulema.
 
-I'm an enthusiastic learner, detail-oriented, and I love to work with people and technology. 
+I started my professional journey in the import/export industry between Mexico and the U.S.A., where I gained leadership experience and, being bilingual, easily connected with multicultural teams.
 
-I'm always excited to learn new things and take on challenges that push me beyond my comfort zone!
+Eventually, I decided to transition into software. I'm an enthusiastic learner who's detail-oriented and loves working with people and technology. Since making the switch, I've been diving into manual and automated testing, getting hands-on with tools like Selenium, Postman, JIRA and working within Scrum Agile teams.
 
+I'm always excited to learn new things and take on challenges that push me beyond my comfort zone. 
+
+
+# 🔗  Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulemaarteaga)
+# 🔗  Email me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:zulema.arteaga@gmail.com)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
