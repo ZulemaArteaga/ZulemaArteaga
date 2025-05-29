@@ -9,9 +9,13 @@ I'm always excited to learn new things and take on challenges that push me beyon
 
 
 # 🔗  Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulemaarteaga)
-# 🔗  Email me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:zulema.arteaga@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulemaarteaga) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:zulema.arteaga@gmail.com) 
+[![Book a Call](https://img.shields.io/badge/Book%20a%20Call-0066CC?style=plastic&logo=google-calendar&logoColor=white)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2VNNLCDSqIoKPShzuC8gRgyuZzCSynqAAGfdAoc6ODVeiubzSL32fi6s9wL8USgO4mS2Ad0uV1)
+
+
+
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
