@@ -3,7 +3,7 @@ I'm Zulema.
 
 I started my professional journey in the import/export industry between Mexico and the U.S.A., where I gained leadership experience and, being bilingual, easily connected with multicultural teams.
 
-Eventually, I decided to transition into software. I'm an enthusiastic learner who's detail-oriented and loves working with people and technology. Since making the switch, I've been diving into manual and automated testing, getting hands-on with tools like Selenium, Postman, JIRA and working within Scrum Agile teams.
+Eventually, I decided to transition into software. Since making the switch, I've been diving into manual and automated testing, getting hands-on with tools like Selenium, Postman, JIRA and working within Scrum Agile teams.
 
 I'm always excited to learn new things and take on challenges that push me beyond my comfort zone. 
 
