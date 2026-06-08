@@ -1,9 +1,7 @@
 Hi there 👋🏻 
 I'm Zulema.
 
-I started my professional journey in the import/export industry between Mexico and the U.S.A., where I gained leadership experience and, being bilingual, easily connected with multicultural teams.
-
-Eventually, I decided to transition into software. Since making the switch, I've been diving into manual and automated testing, getting hands-on with tools like Selenium, Postman, JIRA and working within Scrum Agile teams.
+Software QA Engineer specializing in mobile (iOS & Android) and web applications. Experienced in test automation, manual execution, and defect lifecycle management using Jira/Xray. Proficient in leveraging AI architectures, specifically integrating Claude Code into engineering workflows to design, build, and optimize automated E2E suites with Playwright. ISTQB CTFL certified and bilingual in English and Spanish, holding specialized certificates in Business, Medical, and Legal translation.
 
 I'm always excited to learn new things and take on challenges that push me beyond my comfort zone. 
 
